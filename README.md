@@ -37,3 +37,5 @@ git pull
 ``` 
 
 ## 3 LICENSE & RIGHTS
+
+```To be filled```
